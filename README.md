@@ -82,3 +82,36 @@
   2. Redux Persist
   3. ComeChat
   5. OneSignal
+
+### 4. OCR
+  OCR adalah sebuah aplikasi untuk melakukan laporan pengeluaran driver, seperti uang bensin, parkir, dll.
+  
+  ![alt text](https://github.com/raka7/portfolio/blob/main/OCR.png)
+  
+  #### Fitur
+  1. Login/Register
+  3. Mengisi data absen per hari
+  4. Scan bukti pengeluaran
+  5. Notifikasi
+  
+  ### Teknologi
+  1. Redux Saga
+  2. Redux Persist
+  5. OneSignal
+
+### 5. FunD
+  FunD adalah sebuah aplikasi untuk kontrol pengeluaran per bulan terutama pengeluaran untuk pembayaran online.
+  
+  ![alt text](https://github.com/raka7/portfolio/blob/main/FunD.png)
+  
+  #### Fitur
+  1. Login/Register
+  3. Grafik Pengeluaran per bulan
+  4. Beli Paket Netflix, dll
+  5. Notifkasi paket habis
+  
+  ### Teknologi
+  1. Redux Saga
+  2. Redux Persist
+  5. Firebase
+
