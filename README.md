@@ -16,9 +16,10 @@
   
   ### Teknologi
   1. Redux Saga
-  2. Firebase
-  3. Socket.io
-  4. OneSignal
+  2. Redux Persist
+  3. Firebase
+  4. Socket.io
+  5. OneSignal
 
 ### 2. WASERDA
   Waserda merupakan aplikasi warung online dimana pengguna dapat melakukan transaksi jual beli produk-produk warung seperti sembako dan kebutuhan sehari-hari.
@@ -56,10 +57,28 @@
   
   ### Teknologi
   1. Redux Saga
-  2. Firebase
-  3. Nexmo
-  4. Socket.io
-  5. OneSignal
+  2. Redux Persist
+  3. Firebase
+  4. Nexmo
+  5. Socket.io
+  6. OneSignal
 
 ### 3. KlopinAJ
   KlopinAJ adalah sebuah aplikasi untuk cari jodoh, yang laki-laki dan perempuan bisa hangout melalui aplikasi dan mencari pasangan sesuai dengan kriteria mereka.
+  ![alt text](https://github.com/raka7/portfolio/blob/main/KloppinAJ.png)
+  
+  #### Fitur
+  1. Login/Register dengan OTP melalui SMS
+  3. Mengisi data kesukaan dan interes
+  4. Memilih emotikon
+  5. Add dan romove teman
+  6. Live chat personal
+  7. Create group
+  8. Create Live group
+  9. Voice & Video Call
+  
+  ### Teknologi
+  1. Redux Saga
+  2. Redux Persist
+  3. ComeChat
+  5. OneSignal
