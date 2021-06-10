@@ -20,7 +20,7 @@
   3. Socket.io
   4. OneSignal
 
-### 1. WASERDA
+### 2. WASERDA
   Waserda merupakan aplikasi warung online dimana pengguna dapat melakukan transaksi jual beli produk-produk warung seperti sembako dan kebutuhan sehari-hari.
   
   ### Aplikasi Penjual
@@ -60,3 +60,6 @@
   3. Nexmo
   4. Socket.io
   5. OneSignal
+
+### 3. KlopinAJ
+  KlopinAJ adalah sebuah aplikasi untuk cari jodoh, yang laki-laki dan perempuan bisa hangout melalui aplikasi dan mencari pasangan sesuai dengan kriteria mereka.
